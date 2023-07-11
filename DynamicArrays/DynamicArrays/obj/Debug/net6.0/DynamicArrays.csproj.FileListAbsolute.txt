@@ -1,0 +1,15 @@
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\bin\Debug\net6.0\DynamicArrays.exe
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\bin\Debug\net6.0\DynamicArrays.deps.json
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\bin\Debug\net6.0\DynamicArrays.runtimeconfig.json
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\bin\Debug\net6.0\DynamicArrays.dll
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\bin\Debug\net6.0\DynamicArrays.pdb
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.csproj.AssemblyReference.cache
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.AssemblyInfoInputs.cache
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.AssemblyInfo.cs
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.csproj.CoreCompileInputs.cache
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.dll
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\refint\DynamicArrays.dll
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.pdb
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\DynamicArrays.genruntimeconfig.cache
+D:\Projects\DynamicArrays\DynamicArrays\DynamicArrays\obj\Debug\net6.0\ref\DynamicArrays.dll
